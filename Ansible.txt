@@ -8,6 +8,10 @@ and the control machine really acts as the orchestration of the place that we're
 
 spool and do all of our mission management throughout this course.
 
+
+
+
+
 Ansible Installation
 ----------------------
 Assumption:
