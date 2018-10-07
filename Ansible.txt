@@ -28,6 +28,14 @@ ansible-galaxy --version
 
 Lab 1 : Delete all the peconfigured target hosts
 
+
+
+
+
+
+
+
+
 ansible --list-hosts all
 sudo vi /etc/ansible/hosts
 delete all the hosts
